@@ -2,6 +2,7 @@ body {
     background-color: #eff0fb;
 }
 .container{
+    display: flex;
     width: 900px;
     padding: 20px;
     margin:  40px auto; 
